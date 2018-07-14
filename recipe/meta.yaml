@@ -21,7 +21,6 @@ requirements:
   host:
     - pip
     - python
-    - setuptools
   run:
     - python
 
@@ -30,7 +29,7 @@ test:
     - oset
 
 about:
-  home: https://gitorious.com/sleipnir/python-oset
+  home: https://gitorious.org/sleipnir/python-oset
   license: PSF
   license_family: PSF
   license_file: LICENSE.rst
